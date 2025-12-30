@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickCharacter.h"
+#include "ShepherdsLogic/Variant_TwinStick/TwinStickCharacter.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

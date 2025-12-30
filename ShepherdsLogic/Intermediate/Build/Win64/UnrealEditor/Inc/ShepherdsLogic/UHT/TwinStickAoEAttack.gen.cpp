@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickAoEAttack.h"
+#include "ShepherdsLogic/Variant_TwinStick/Gameplay/TwinStickAoEAttack.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

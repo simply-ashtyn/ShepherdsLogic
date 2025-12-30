@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "StrategyUnit.h"
+#include "ShepherdsLogic/Variant_Strategy/StrategyUnit.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

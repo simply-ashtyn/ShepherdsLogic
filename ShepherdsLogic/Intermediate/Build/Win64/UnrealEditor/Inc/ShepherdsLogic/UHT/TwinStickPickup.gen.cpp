@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickPickup.h"
+#include "ShepherdsLogic/Variant_TwinStick/Gameplay/TwinStickPickup.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

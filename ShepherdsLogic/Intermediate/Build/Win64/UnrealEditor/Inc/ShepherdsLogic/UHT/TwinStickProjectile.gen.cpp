@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickProjectile.h"
+#include "ShepherdsLogic/Variant_TwinStick/Gameplay/TwinStickProjectile.h"
 #include "Engine/HitResult.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS

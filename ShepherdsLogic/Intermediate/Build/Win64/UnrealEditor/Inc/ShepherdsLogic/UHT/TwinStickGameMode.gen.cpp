@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickGameMode.h"
+#include "ShepherdsLogic/Variant_TwinStick/TwinStickGameMode.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

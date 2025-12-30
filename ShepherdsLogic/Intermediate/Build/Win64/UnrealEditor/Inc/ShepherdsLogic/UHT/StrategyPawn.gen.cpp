@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "StrategyPawn.h"
+#include "ShepherdsLogic/Variant_Strategy/StrategyPawn.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "ShepherdsLogicGameMode.h"
+#include "ShepherdsLogic/ShepherdsLogicGameMode.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickUI.h"
+#include "ShepherdsLogic/Variant_TwinStick/UI/TwinStickUI.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TwinStickStateTreeUtility.h"
+#include "ShepherdsLogic/Variant_TwinStick/AI/TwinStickStateTreeUtility.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
