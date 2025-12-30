@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShepherdsLogic",
+			"Path": "..\\Source\\ShepherdsLogic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShepherdsLogicEditor",
+			"Path": "..\\Source\\ShepherdsLogicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\source\\shepherdslogic\\variant_strategy\\strategygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\x64\\shepherdslogiceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shepherdslogic\\definitions.shepherdslogic.h",
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\source\\shepherdslogic\\variant_strategy\\strategygamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\unrealeditor\\inc\\shepherdslogic\\uht\\strategygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

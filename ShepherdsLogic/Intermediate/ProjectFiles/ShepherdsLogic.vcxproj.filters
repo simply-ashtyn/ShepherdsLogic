@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShepherdsLogic.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShepherdsLogic.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShepherdsLogicEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShepherdsLogic">
+      <UniqueIdentifier>{3571F1FE-C2F2-3773-B379-21F2BCD47AC3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShepherdsLogic\ShepherdsLogic.Build.cs">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\ShepherdsLogic.cpp">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\ShepherdsLogic.h">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\ShepherdsLogicCharacter.cpp">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\ShepherdsLogicCharacter.h">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\ShepherdsLogicGameMode.cpp">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\ShepherdsLogicGameMode.h">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\ShepherdsLogicPlayerController.cpp">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\ShepherdsLogicPlayerController.h">
+      <Filter>Source\ShepherdsLogic</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_Strategy">
+      <UniqueIdentifier>{A8121C13-4BDE-3CAE-A46E-BD8008EB455F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_Strategy\UI">
+      <UniqueIdentifier>{1BC90F0A-658C-337C-9AD5-B619C398D3AA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\ShepherdsLogic\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_TwinStick">
+      <UniqueIdentifier>{8CB83A43-F367-389B-9D60-3B33EA5945DE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_TwinStick\AI">
+      <UniqueIdentifier>{8EB5345A-9AA4-39C5-91C3-3A8190071BB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{FC4545AF-A54C-3EB0-85B9-E7A91001ABDE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShepherdsLogic\Variant_TwinStick\UI">
+      <UniqueIdentifier>{C03AAA8A-EB2A-319F-B8E6-9FA0FA441C0A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShepherdsLogic\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\ShepherdsLogic\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

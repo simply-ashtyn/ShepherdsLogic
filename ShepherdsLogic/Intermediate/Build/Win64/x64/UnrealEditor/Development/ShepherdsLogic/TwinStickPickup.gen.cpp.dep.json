@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\unrealeditor\\inc\\shepherdslogic\\uht\\twinstickpickup.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\x64\\shepherdslogiceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shepherdslogic\\definitions.shepherdslogic.h",
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\source\\shepherdslogic\\variant_twinstick\\gameplay\\twinstickpickup.h",
+            "c:\\users\\ashty\\documents\\unreal projects\\shepherdslogic\\shepherdslogic\\intermediate\\build\\win64\\unrealeditor\\inc\\shepherdslogic\\uht\\twinstickpickup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
