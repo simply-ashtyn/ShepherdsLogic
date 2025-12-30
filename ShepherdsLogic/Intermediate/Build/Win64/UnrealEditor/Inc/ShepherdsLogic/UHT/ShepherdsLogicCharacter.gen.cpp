@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "ShepherdsLogic/ShepherdsLogicCharacter.h"
+#include "ShepherdsLogicCharacter.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
